@@ -3,6 +3,11 @@
   <strong>Estudante de Ciência da Computação no CEUB, em Brasília-DF.</strong>
   <br>
   <strong>Tenho interesse na área de Ciência de Dados, com foco em análise de dados e programação.</strong>
+  <br>
+  <br>
+  <strong>Computer Science student at CEUB, in Brasília, Brazil.</strong> 
+  <br> 
+  <strong>Interested in the field of Data Science, with a focus on data analysis and programming.</strong>
 </p></div>
 
 <br>
