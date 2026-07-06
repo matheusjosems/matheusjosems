@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=matheusjosems&langs_count=4&theme=dark">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=matheusjosems&langs_count=4&theme=dark" width="37%" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=matheusjosems&langs_count=4&theme=dark" width="26%" />
   </a>
 
   <br><br>
