@@ -11,11 +11,11 @@
 <div align="center">
 
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img src="https://github-stats-extended.vercel.app/api?username=matheusjosems&theme=dark" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=matheusjosems&theme=dark" width="60.1%" />
 </a>
 
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=matheusjosems&langs_count=4&theme=dark">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=matheusjosems&langs_count=4&theme=dark" width="26%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=matheusjosems&langs_count=4&theme=dark" width="32%" />
 </a>
 
 </div>
