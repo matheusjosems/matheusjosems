@@ -1,13 +1,9 @@
 <!-- Descrição -->
-<div align="center">
-
-<p>
+<div align="left"><p>
   <strong>Estudante de Ciência da Computação no CEUB, em Brasília-DF.</strong>
   <br>
   <strong>Tenho interesse na área de Ciência de Dados, com foco em análise de dados e programação.</strong>
-</p>
-
-</div>
+</p></div>
 
 <br>
 
