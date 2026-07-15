@@ -36,13 +36,48 @@
 <table>
   <tr>
     <td align="center">
-      <img width="260" src="assets/merlinn.gif" alt="Merlin GIF">
+      <img width="260" src="assets/merlinn2.gif" alt="Merlin GIF">
     </td>
     <td align="center">
       <h3>Tecnologias e Ferramentas</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=windows,linux,git,github,java,py,postgres,mysql,eclipse,vscode&perline=5" alt="Skills" />
       </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img width="260" src="assets/merlinn.gif" alt="Merlin GIF">
+    </td>
+    <td align="left">
+
+<h2>Atualmente Estudando:</h2>
+<p>
+• Ciência de Dados e Análise de Dados<br>
+• Python para manipulação e análise de dados<br>
+• Machine Learning e Data Science com Python <br>
+</p>
+
+<h3> Objetivos:</h3>
+<p>
+Desenvolver habilidades em Ciência de Dados e Machine Learning com projetos práticos.
+</p>
+
+<h3>Próximos Estudos:</h3>
+<p>
+• Machine Learning com Scikit-Learn<br>
+• Design e criaçao de cyberdeck<br>
+• Planejamento de um projeto em Java<br>
+• Planejamento e desenvolvimento de um jogo utilizando Pygame, inspirado em Dungeons & Dragons (1ª edição)<br>
+</p>
     </td>
   </tr>
 </table>
