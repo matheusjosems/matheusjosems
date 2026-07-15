@@ -1,16 +1,20 @@
+
+
+
 <!-- Descrição -->
+
 <div align="left"><p>
   <strong>Estudante de Ciência da Computação no CEUB, em Brasília-DF.</strong>
   <br>
-  <strong>Tenho interesse na área de Ciência de Dados, com foco em análise de dados e programação.</strong>
+  <strong>Tenho interesse nas áreas de Ciência de Dados, Desenvolvimento de Software e Programação, com foco em análise de dados e inteligência artificial.</strong>
   <br>
   <br>
-  <strong>Computer Science student at CEUB, in Brasília, Brazil.</strong> 
-  <br> 
-  <strong>Interested in the field of Data Science, with a focus on data analysis and programming.</strong>
+  <strong>Computer Science student at CEUB, in Brasília, Brazil.</strong>
+  <br>
+  <strong>Interested in Data Science, Software Development, and Programming, with a focus on data analysis and artificial intelligence.</strong>
 </p></div>
 
-<br>
+---
 
 <!-- Estatísticas -->
 <div align="center">
@@ -25,15 +29,28 @@
 
 </div>
 
-<br>
+---
 
-<!-- Tecnologias -->
 <div align="center">
 
-<img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-<img alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-<img alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+<table>
+  <tr>
+    <td align="center">
+      <img width="260" src="assets/merlinn.gif" alt="Merlin GIF">
+    </td>
+    <td align="center">
+      <h3>Tecnologias e Ferramentas</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=windows,linux,git,github,java,py,postgres,mysql,eclipse,vscode&perline=5" alt="Skills" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
+
+<img src="https://skillicons.dev/icons?i=gmail" width="24" align="center" /> **Contact:** matheusjosemoraiss@gmail.com
+<br>
+<img src="https://skillicons.dev/icons?i=linkedin" width="24" align="center" /> **Linkedin:** [matheusmorais](https://www.linkedin.com/in/matheusmoraiss/)
