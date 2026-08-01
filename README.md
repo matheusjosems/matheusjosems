@@ -41,7 +41,7 @@
     <td align="center">
       <h3>Tecnologias e Ferramentas</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,linux,git,github,java,py,postgres,mysql,eclipse,vscode&perline=5" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=windows,linux,git,github,java,go,py,postgres,mysql,eclipse,vscode&perline=5" alt="Skills" />
       </a>
     </td>
   </tr>
